@@ -1,79 +1,103 @@
-<h1 align="center">Hey 👋, I'm Manik Kafle</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineer · Full-Stack Developer · UI/UX Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=MANIK%20KAFLE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Manik Kafle"/>
 
-<p align="center">
+<h3>Building ideas into experiences ✦</h3>
+
+<p>
   <a href="https://github.com/rmanikk">
-    <img src="https://komarev.com/ghpvc/?username=rmanikk&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-rmanikk-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/rmanikk?tab=followers">
-    <img src="https://img.shields.io/github/followers/rmanikk?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers" />
+  <a href="https://linkedin.com/in/rm4nik">
+    <img src="https://img.shields.io/badge/LinkedIn-rm4nik-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manikkafle.com.np@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=180&section=header&text=Manik%20Kafle&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
-
-```text
-Software Engineer focused on building modern, useful and
-visually polished applications.
-
-🎯 Full-Stack Development
-🎨 UI/UX & Product Design
-🚀 Building real-world projects
-🎵 Currently building Verse-Hana
-```
-
-* 🔭 Currently working on **[Verse-Hana](https://github.com/rmanikk/Verse-Hana)**
-* 🌱 Currently learning **Full-Stack Development**
-* 💬 Ask me about **UI/UX Design**
-* ⚡ Fun fact: **I'm a slacker who somehow still gets things done 😄**
-* 📫 Email: **[manikkafle.com.np@gmail.com](mailto:manikkafle.com.np@gmail.com)**
-
----
-
-## 🚀 Featured Project
+## ✦ About Me
 
 <table>
 <tr>
-<td width="65%">
+<td width="55%" valign="top">
 
-<h3>🎵 Verse-Hana</h3>
+### Hey, I'm Manik 👋
 
-<p>
-A modern music platform I'm building as a full-stack project, focused on music discovery, user experience and a clean modern interface.
-</p>
+I'm a **Software Engineer** who enjoys turning ideas into practical, polished digital experiences.
 
-<p>
+I like working across the stack — from designing interfaces and user experiences to building the backend systems that power them.
 
-🎧 Music Discovery <br>
-🎵 Music Player <br>
-👤 Authentication & User Accounts <br>
-📊 User Activity <br>
-🎨 Responsive UI/UX <br>
-⚙️ Full-Stack Architecture
+<br>
 
-</p>
+**Currently**
 
-<p>
-<a href="https://github.com/rmanikk/Verse-Hana">
-<img src="https://img.shields.io/badge/View%20Repository-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-</a>
-</p>
+🔭 Building **[Verse-Hana](https://github.com/rmanikk/Verse-Hana)**
+🌱 Exploring **Full-Stack Development**
+🎨 Interested in **UI/UX & Product Design**
+💡 Always experimenting with new ideas
 
 </td>
 
-<td width="35%" align="center">
+<td width="45%" valign="top">
+
+### ⚡ Quick Facts
+
+```text
+▸ Role       Software Engineer
+▸ Focus      Full-Stack Development
+▸ Interest   UI/UX & Product Design
+▸ Building   Verse-Hana
+▸ Location   Nepal 🇳🇵
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 Currently Building
+
+### 🎵 Verse-Hana
+
+**A modern music platform built from the ground up.**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I'm building
+
+🎧 Music discovery & exploration
+🎵 Modern music-player experience
+👤 Authentication & user accounts
+📊 User activity & personalization
+🎨 Responsive and intuitive UI
+⚙️ Full-stack architecture
+
+</td>
+
+<td width="50%" valign="middle" align="center">
 
 <a href="https://github.com/rmanikk/Verse-Hana">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rmanikk&repo=Verse-Hana&theme=tokyonight&hide_border=true" alt="Verse-Hana"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rmanikk&repo=Verse-Hana&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="100%" alt="Verse-Hana"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/rmanikk/Verse-Hana">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Verse-Hana"/>
 </a>
 
 </td>
@@ -82,185 +106,122 @@ A modern music platform I'm building as a full-stack project, focused on music d
 
 ---
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=rmanikk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    alt="Manik's GitHub Stats"
-  />
+## 📊 GitHub At A Glance
 
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmanikk&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
- alt="Top Languages"
-/>
+<br>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rmanikk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" height="180" alt="GitHub Statistics"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmanikk&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180" alt="Top Languages"/>
 
-## ⭐ GitHub Overview
+</div>
 
-<p align="center">
+<br>
 
-<a href="https://github.com/rmanikk?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20All-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+<div align="center">
 
-<a href="https://github.com/rmanikk?tab=stars">
-<img src="https://img.shields.io/badge/Stars-View%20Stars-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=rmanikk&theme=dark&hide_border=true&background=0d1117&stroke=312e81&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="70%" alt="Contribution Streak"/>
 
-<a href="https://github.com/rmanikk?tab=followers">
-<img src="https://img.shields.io/badge/Followers-View%20Followers-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+## 📈 Contribution Journey
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rmanikk&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rmanikk&bg_color=0d1117&color=9ca3af&line=8b5cf6&point=c4b5fd&area_color=312e81&area=true&hide_border=true&custom_title=Manik's%20Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rmanikk&bg_color=0d1117&color=8b949e&line=6366f1&point=a78bfa&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 Achievements
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rmanikk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=rmanikk&theme=onestar&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
-# 🧰 Languages & Tools
-
-### 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="45" alt="MATLAB"/>
-
-</p>
-
-### 🌐 Web & Frameworks
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-
-<img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
-
-</p>
-
-### 🗄️ Databases & Data
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
-
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
-
-</p>
-
-### ☁️ Tools & Platforms
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
-
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,matlab&theme=dark" alt="Languages"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb&theme=dark" alt="Backend Technologies"/>
+</p>
+
+### Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,figma,postman&theme=dark" alt="Tools"/>
+</p>
+
+### Data & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="Data and Machine Learning"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+<br>
 
 <a href="https://linkedin.com/in/rm4nik">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://instagram.com/slacker_m4nik">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://dribbble.com/rmanik">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="40" height="40" alt="Dribbble"/>
+<img src="https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=EA4C89" alt="Dribbble"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="mailto:manikkafle.com.np@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rmanikk&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:312e81,100:0f172a&height=100&section=footer" alt="Footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+### ✦ Keep building. Keep learning. Keep shipping. ✦
 
-<p align="center">
-  <i>Keep building. Keep learning. Keep shipping.</i>
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0f172a&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
