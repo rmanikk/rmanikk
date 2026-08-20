@@ -90,7 +90,7 @@ I like working across the stack — from designing interfaces and user experienc
 
 <a href="https://github.com/rmanikk/Verse-Hana">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rmanikk&repo=Verse-Hana&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="100%" alt="Verse-Hana"/>
+<img src="./versehana.png" width="90%" alt="Verse-Hana"/>
 
 </a>
 
