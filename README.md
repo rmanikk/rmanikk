@@ -112,9 +112,21 @@ I like working across the stack — from designing interfaces and user experienc
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rmanikk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" height="180" alt="GitHub Statistics"/>
+<a href="https://github.com/rmanikk">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rmanikk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github"
+    height="180"
+    alt="Manik's GitHub Statistics"
+  />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmanikk&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180" alt="Top Languages"/>
+<a href="https://github.com/rmanikk">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmanikk&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"
+    height="180"
+    alt="Manik's Top Languages"
+  />
+</a>
 
 </div>
 
