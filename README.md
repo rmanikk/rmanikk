@@ -77,12 +77,12 @@ I like working across the stack — from designing interfaces and user experienc
 
 ### What I'm building
 
-🎧 Music discovery & exploration
-🎵 Modern music-player experience
-👤 Authentication & user accounts
-📊 User activity & personalization
-🎨 Responsive and intuitive UI
-⚙️ Full-stack architecture
+- 🎧 **Music discovery & exploration**
+- 🎵 **Modern music-player experience**
+- 👤 **Authentication & user accounts**
+- 📊 **User activity & personalization**
+- 🎨 **Responsive and intuitive UI**
+- ⚙️ **Full-stack architecture**
 
 </td>
 
