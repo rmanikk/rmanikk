@@ -77,12 +77,12 @@ I like working across the stack — from designing interfaces and user experienc
 
 ### What I'm building
 
-- 🎧 **Music discovery & exploration**
-- 🎵 **Modern music-player experience**
-- 👤 **Authentication & user accounts**
-- 📊 **User activity & personalization**
-- 🎨 **Responsive and intuitive UI**
-- ⚙️ **Full-stack architecture**
+* 🎧 **Music discovery & exploration**
+* 🎵 **Modern music-player experience**
+* 👤 **Authentication & user accounts**
+* 📊 **User activity & personalization**
+* 🎨 **Responsive and intuitive UI**
+* ⚙️ **Full-stack architecture**
 
 </td>
 
@@ -122,7 +122,7 @@ I like working across the stack — from designing interfaces and user experienc
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rmanikk&theme=dark&hide_border=true&background=0d1117&stroke=312e81&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="70%" alt="Contribution Streak"/>
+<img src="./assets/github-streak.svg" width="70%" alt="Contribution Streak"/>
 
 </div>
 
