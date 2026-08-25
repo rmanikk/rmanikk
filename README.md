@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-rm4nik-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:manikkafle.com.np@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4339" alt="Email"/>
   </a>
 </p>
 
@@ -47,13 +47,13 @@ I like working across the stack — from designing interfaces and user experienc
 
 ### ⚡ Quick Facts
 
-```text
-▸ Role       Software Engineer
-▸ Focus      Full-Stack Development
-▸ Interest   UI/UX & Product Design
-▸ Building   Verse-Hana
-▸ Location   Nepal 🇳🇵
-```
+| | |
+|---|---|
+| ▸ **Role** | Software Engineer |
+| ▸ **Focus** | Full-Stack Development |
+| ▸ **Interest** | UI/UX & Product Design |
+| ▸ **Building** | Verse-Hana |
+| ▸ **Location** | Nepal 🇳🇵 |
 
 </td>
 </tr>
@@ -112,13 +112,37 @@ I like working across the stack — from designing interfaces and user experienc
 
 <br>
 
-<img src="./assets/github-stats.svg" height="180" alt="Manik's GitHub Statistics"/>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="./assets/top-languages.svg" height="180" alt="Manik's Top Languages"/>
+<img
+  src="./assets/github-stats.svg"
+  width="100%"
+  alt="Manik's GitHub Statistics"
+/>
 
-<br><br>
+</td>
 
-<img src="./assets/github-streak.svg" width="70%" alt="Contribution Streak"/>
+<td width="50%" align="center">
+
+<img
+  src="./assets/top-languages.svg"
+  width="100%"
+  alt="Manik's Most Used Languages"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img
+  src="./assets/github-streak.svg"
+  width="70%"
+  alt="Manik's GitHub Contribution Streak"
+/>
 
 </div>
 
@@ -129,7 +153,7 @@ I like working across the stack — from designing interfaces and user experienc
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rmanikk&bg_color=0d1117&color=9ca3af&line=8b5cf6&point=c4b5fd&area_color=312e81&area=true&hide_border=true&custom_title=Manik's%20Contribution%20Activity"
+  src="./assets/contribution-graph.svg"
   width="100%"
   alt="Manik's GitHub Contribution Activity Graph"
 />
@@ -145,46 +169,47 @@ I like working across the stack — from designing interfaces and user experienc
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,matlab&theme=dark" alt="Languages"/>
+<img
+  src="https://skillicons.dev/icons?i=c,cpp,js,python,matlab&theme=dark"
+  alt="Languages"
+/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark" alt="Frontend Technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark"
+  alt="Frontend Technologies"
+/>
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql&theme=dark" alt="Backend and Database Technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql&theme=dark"
+  alt="Backend and Database Technologies"
+/>
 </p>
 
 ### Tools & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,figma,postman&theme=dark" alt="Tools and Cloud"/>
+<img
+  src="https://skillicons.dev/icons?i=git,github,aws,figma,postman&theme=dark"
+  alt="Tools and Cloud"
+/>
 </p>
 
 ### Data & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="Data and Machine Learning"/>
+<img
+  src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark"
+  alt="Data and Machine Learning Technologies"
+/>
 </p>
-
-</div>
-
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/rmanikk/Verse-Hana">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rmanikk&repo=Verse-Hana&theme=dark&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=8b5cf6&hide_border=true" alt="Verse-Hana GitHub Repository"/>
-
-</a>
 
 </div>
 
@@ -197,24 +222,39 @@ I like working across the stack — from designing interfaces and user experienc
 <br>
 
 <a href="https://linkedin.com/in/rm4nik">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img
+  src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="https://instagram.com/slacker_m4nik">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+<img
+  src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
+  alt="Instagram"
+/>
 </a>
 
 <a href="https://dribbble.com/rmanik">
-<img src="https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=EA4C89" alt="Dribbble"/>
+<img
+  src="https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=EA4C89"
+  alt="Dribbble"
+/>
 </a>
 
 <a href="mailto:manikkafle.com.np@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img
+  src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4339"
+  alt="Email"
+/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rmanikk&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=rmanikk&label=Profile%20Views&color=8b5cf6&style=flat-square"
+  alt="Profile Views"
+/>
 
 </div>
 
@@ -226,6 +266,10 @@ I like working across the stack — from designing interfaces and user experienc
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0f172a&height=120&section=footer" width="100%" alt="Footer"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0f172a&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
