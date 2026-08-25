@@ -13,6 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # =========================
+      # Checkout Repository
+      # =========================
+
       - name: Checkout repository
         uses: actions/checkout@v5
 
@@ -52,16 +56,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # =========================
-      # Contribution Graph / Snake
+      # Contribution Activity Graph
       # =========================
 
-      - name: Generate Contribution Graph
-        uses: Platane/snk@v3
+      - name: Generate Contribution Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/github-contribution-graph.svg
-            assets/github-contribution-graph-dark.svg?palette=github-dark
+          username: ${{ github.repository_owner }}
+          options: bg_color=0d1117&color=9ca3af&line=8b5cf6&point=c4b5fd&area_color=312e81&area=true&hide_border=true&custom_title=Manik's%20Contribution%20Activity
+          output_path: assets/contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # =========================
       # Commit Generated Files
