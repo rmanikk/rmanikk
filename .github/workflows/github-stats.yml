@@ -14,7 +14,11 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
+
+      # =========================
+      # GitHub Stats
+      # =========================
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -24,6 +28,10 @@ jobs:
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # =========================
+      # Top Languages
+      # =========================
+
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -32,6 +40,10 @@ jobs:
           path: assets/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # =========================
+      # GitHub Streak
+      # =========================
+
       - name: Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -39,10 +51,29 @@ jobs:
           path: assets/github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # =========================
+      # Contribution Graph / Snake
+      # =========================
+
+      - name: Generate Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-graph.svg
+            assets/github-contribution-graph-dark.svg?palette=github-dark
+
+      # =========================
+      # Commit Generated Files
+      # =========================
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add assets/*.svg
+
           git diff --cached --quiet || git commit -m "Update GitHub stats"
+
           git push
