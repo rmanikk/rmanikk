@@ -36,9 +36,9 @@ I like working across the stack — from designing interfaces and user experienc
 
 **Currently**
 
-🔭 Building **[Verse-Hana](https://github.com/rmanikk/Verse-Hana)**
-🌱 Exploring **Full-Stack Development**
-🎨 Interested in **UI/UX & Product Design**
+🔭 Building **[Verse-Hana](https://github.com/rmanikk/Verse-Hana)**  
+🌱 Exploring **Full-Stack Development**  
+🎨 Interested in **UI/UX & Product Design**  
 💡 Always experimenting with new ideas
 
 </td>
@@ -116,11 +116,7 @@ I like working across the stack — from designing interfaces and user experienc
 
 <img src="./assets/top-languages.svg" height="180" alt="Manik's Top Languages"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="./assets/github-streak.svg" width="70%" alt="Contribution Streak"/>
 
@@ -132,7 +128,11 @@ I like working across the stack — from designing interfaces and user experienc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rmanikk&bg_color=0d1117&color=9ca3af&line=8b5cf6&point=c4b5fd&area_color=312e81&area=true&hide_border=true&custom_title=Manik's%20Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rmanikk&bg_color=0d1117&color=9ca3af&line=8b5cf6&point=c4b5fd&area_color=312e81&area=true&hide_border=true&custom_title=Manik's%20Contribution%20Activity"
+  width="100%"
+  alt="Manik's GitHub Contribution Activity Graph"
+/>
 
 </div>
 
@@ -157,13 +157,13 @@ I like working across the stack — from designing interfaces and user experienc
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb&theme=dark" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql&theme=dark" alt="Backend and Database Technologies"/>
 </p>
 
 ### Tools & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,figma,postman&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,aws,figma,postman&theme=dark" alt="Tools and Cloud"/>
 </p>
 
 ### Data & Machine Learning
@@ -171,6 +171,20 @@ I like working across the stack — from designing interfaces and user experienc
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="Data and Machine Learning"/>
 </p>
+
+</div>
+
+---
+
+## 📌 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/rmanikk/Verse-Hana">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rmanikk&repo=Verse-Hana&theme=dark&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=8b5cf6&hide_border=true" alt="Verse-Hana GitHub Repository"/>
+
+</a>
 
 </div>
 
